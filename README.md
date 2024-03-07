@@ -64,8 +64,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-<div><ul>
-    <li> 📂 Semester 1
+<hr>
+<div>
+  <h3 align="left">University Work</h3>
+  <ul>
+    <li> Semester 1
         <ul>
             <li>
                     <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%201/ASC">
@@ -94,7 +97,7 @@
                 </li>
          </ul>
       </li>
-    <li> 📂 Semester 2
+    <li> Semester 2
         <ul>
                 <li>
                     <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/OOP">
