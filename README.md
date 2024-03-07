@@ -1,4 +1,4 @@
-![image](https://github.com/Stefan-Macovei-Grigoras/Stefan-Macovei-Grigoras/assets/74114941/636e2792-061b-4cd5-a7c4-49fc58399dde)<div align="center">
+<div>
   <img src="https://w.forfun.com/fetch/b2/b215fe81006171dcecce204b8a8fbd4c.jpeg?w=1200&r=0.5625"  />
 </div>
 
