@@ -76,11 +76,11 @@
                     </a>
                 </li>
             <li>
-            <li>
                     <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%201/FP">
                        FP
                     </a>
                 </li>
+                <li>
                 <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%201/Linear%20Algebra">
                      Linear Algebra
                 </a>
@@ -132,4 +132,3 @@
         </ul>
     </li>
 </div>
-###
