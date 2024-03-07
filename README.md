@@ -32,7 +32,7 @@
 <p align="left">Second-year student at Babes-Bolyai University, Faculty of Mathematics and Computer Science<br><br>- 📚 I'm currently developing a full-stack application<br>- Floral enthusiast🥀 with a keen eye for photography 📷and a love for staying active through running🏃🏻‍♂️</p>
 
 ###
-
+<hr>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
