@@ -64,5 +64,69 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
+<div><ul>
+    <li> 📂 Semester 1
+        <ul>
+            <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%201/ASC">
+                        ASC
+                    </a>
+                </li>
+            <li>
+            <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%201/FP">
+                       FP
+                    </a>
+                </li>
+                <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%201/Linear%20Algebra">
+                     Linear Algebra
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%201/Mathematical%20Analysis">
+                     Mathematical Analysis
+                </a>
+            </li>
+             <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%201/Computational%20Logic">
+                        Computational Logic
+                    </a>
+                </li>
+         </ul>
+      </li>
+    <li> 📂 Semester 2
+        <ul>
+                <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/OOP">
+                       OOP
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/Graph%20Algorithmics">
+                       Graph Algorithmics
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/OS">
+                       OS
+                    </a>
+                </li>
+                 <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/DS">
+                       DS
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/DSA">
+                       DSA
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/Geometry">
+                       Geometry
+                    </a>
+                </li>
+        </ul>
+    </li>
+</div>
 ###
