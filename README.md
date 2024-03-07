@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![space-luna-nebo-noch-temnii-minimalizm-131191](https://github.com/Stefan-Macovei-Grigoras/Stefan-Macovei-Grigoras/assets/74114941/7265ad00-9d14-4fe7-b591-95d18880fa60)"  />
+  <img height="150" src="https://w.forfun.com/fetch/84/841c982afc3683e7997c51f292132638.jpeg?w=1200&r=0.5625"  />
 </div>
 
 ###
