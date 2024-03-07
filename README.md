@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="350" src="https://w.forfun.com/fetch/84/841c982afc3683e7997c51f292132638.jpeg?w=1200&r=0.5625"  />
+![image](https://github.com/Stefan-Macovei-Grigoras/Stefan-Macovei-Grigoras/assets/74114941/636e2792-061b-4cd5-a7c4-49fc58399dde)<div align="center">
+  <img height="650" src="[https://w.forfun.com/fetch/84/841c982afc3683e7997c51f292132638.jpeg?w=1200&r=0.5625](https://w.forfun.com/fetch/e2/e280253c26691447098f45758b824981.jpeg?w=1200&r=0.5625)"  />
 </div>
 
 ###
