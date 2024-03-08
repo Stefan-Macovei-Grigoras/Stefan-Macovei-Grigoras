@@ -131,6 +131,37 @@
                 </li>
         </ul>
     </li>
+    <li>
+    Semester 3
+      <ul>
+         <li>
+                    <a href=" <li>
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/OOP">
+                       Computer Networks
+                    </a>
+                </li>
+                <li>
+                    <a href="[https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/Graph%20Algorithmics](https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/DB)">
+                       Databases
+                    </a>
+                </li>
+                <li>
+                    <a href="[https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/OS](https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/MAP)">
+                       MAP
+                    </a>
+                </li>
+                 <li>
+                    <a href="[https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/DS](https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/PLF)">
+                       PLF
+                    </a>
+                </li>
+                <li>
+                    <a href="[https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/DSA](https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/PS)">
+                       PS
+                    </a>
+                </li>
+      </ul>      
+    </li>
 </div>
 ## Languages and Tools:
 <div>
