@@ -135,18 +135,17 @@
     Semester 3
       <ul>
          <li>
-                    <a href=" <li>
-                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/OOP">
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/Computer%20networks/">
                        Computer Networks
                     </a>
                 </li>
                 <li>
-                    <a href="[https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/Graph%20Algorithmics](https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/DB)">
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/DB">
                        Databases
                     </a>
                 </li>
                 <li>
-                    <a href="[https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/OS](https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/MAP)">
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/MAP">
                        MAP
                     </a>
                 </li>
