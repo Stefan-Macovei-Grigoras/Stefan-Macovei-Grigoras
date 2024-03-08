@@ -150,12 +150,12 @@
                     </a>
                 </li>
                  <li>
-                    <a href="[https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/DS](https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/PLF)">
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/PLF">
                        PLF
                     </a>
                 </li>
                 <li>
-                    <a href="[https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%202/DSA](https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/PS)">
+                    <a href="https://github.com/Stefan-Macovei-Grigoras/UBB-Mathematics-and-Computer-Science/tree/main/Semester%203/PS">
                        PS
                     </a>
                 </li>
