@@ -30,7 +30,8 @@
 ###
 
 <p align="left">Second-year student at Babes-Bolyai University, Faculty of Mathematics and Computer Science<br>
-  <br>- 📚 I'm currently developing a full-stack application<br>- Floral enthusiast🥀 with a keen eye for photography 📷and a love for staying active through running🏃🏻‍♂️
+  <br> 📚 I'm currently developing a full-stack application
+  <be> 🥀Floral enthusiast with a keen eye for photography 📷and a love for staying active through running🏃🏻‍♂️
   <br> 📃 Learn more about my experience from my <a href="https://drive.google.com/file/d/1XHIqBbkhrld_EBRh7_I8tpAP3sUDGDGx/view?usp=sharing">resume</a>
 </p>
 
