@@ -171,7 +171,7 @@
           <a href="https://github.com/Stefan-Macovei-Grigoras/CameraStoreFrontEnd">
                        MPP Frontend
                     </a><br>
-           <a href="https://github.com/Stefan-Macovei-Grigoras/CameraStoreBackEnd">
+           <a href="https://github.com/Stefan-Macovei-Grigoras/CameraStoreBE">
                        MPP Backend
                     </a>
         </ul>
