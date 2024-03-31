@@ -168,10 +168,9 @@
     <li>
       Semester 4
         <ul>
-          MPP Frontend
           <a href="https://github.com/Stefan-Macovei-Grigoras/CameraStoreFrontEnd">
                        MPP Frontend
-                    </a>
+                    </a><br>
            <a href="https://github.com/Stefan-Macovei-Grigoras/CameraStoreBackEnd">
                        MPP Backend
                     </a>
