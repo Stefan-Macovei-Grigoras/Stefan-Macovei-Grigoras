@@ -31,7 +31,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
-  <img src="PATH_BIG.png" width="85" height="40" alt="UiPath logo" />
+  <img src="PATH_BIG.png" width="100" height="40" alt="UiPath logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
