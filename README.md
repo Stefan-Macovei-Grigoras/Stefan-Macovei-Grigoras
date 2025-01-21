@@ -1,8 +1,3 @@
-<div>
-  <img src="https://w.forfun.com/fetch/b2/b215fe81006171dcecce204b8a8fbd4c.jpeg?w=1200&r=0.5625"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/stefan-macovei-grigoras-288630270/" target="_blank">
