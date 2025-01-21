@@ -1,5 +1,12 @@
 <ul>
   <div>
+    <h3 align="left">RPA Projects</h3>
+    <ul>
+        <li><a href="https://github.com/Stefan-Macovei-Grigoras/RPA-meteo-alarm">Meteo Alarm</a></li>
+        <li><a href="https://github.com/Stefan-Macovei-Grigoras/RPA-cookie-clicker">Cookie Clicker</a></li>
+    </ul>
+  </div>
+  <div>
     <h3 align="left">University Work</h3>
     <ul>
       <li> Semester 1
@@ -106,12 +113,5 @@
                       </a>
           </ul>
       </li>
-  </div>
-  <div>
-    <h3 align="left">RPA Projects</h3>
-    <ul>
-        <li><a href="https://github.com/Stefan-Macovei-Grigoras/RPA-meteo-alarm">Meteo Alarm</a></li>
-        <li><a href="https://github.com/Stefan-Macovei-Grigoras/RPA-cookie-clicker">Cookie Clicker</a></li>
-    </ul>
   </div>
 </ul>
