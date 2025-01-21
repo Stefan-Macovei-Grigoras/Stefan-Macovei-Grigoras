@@ -1,9 +1,9 @@
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/stefan-macovei-grigoras-288630270/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+<div align="left" style="font-size: 0; line-height: 0;">
+  <a href="https://www.linkedin.com/in/stefan-macovei-grigoras-288630270/" target="_blank" style="text-decoration: none; display: block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="display: block; vertical-align: middle;" />
   </a>
-  <a href="https://www.instagram.com/stefan.macovei03/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  <a href="https://www.instagram.com/stefan.macovei03/" target="_blank" style="text-decoration: none; display: block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="display: block; vertical-align: middle;" />
   </a>
 </div>
 
