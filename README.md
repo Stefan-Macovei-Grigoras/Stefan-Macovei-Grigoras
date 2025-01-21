@@ -5,7 +5,7 @@
     <img width="10" />
   </a>
   <a href="https://www.instagram.com/stefan.macovei03/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" text-decoration: none !important;/>
     <img width="10" />
   </a>
 </div>
