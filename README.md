@@ -177,3 +177,10 @@
         </ul>
     </li>
 </div>
+<div>
+   <h3 align="left"RPA Projects</h3>
+  <ul>
+      <a href="https://github.com/Stefan-Macovei-Grigoras/RPA-meteo-alarm">Meteo Alarm</a><br>
+      <a href="https://github.com/Stefan-Macovei-Grigoras/RPA-meteo-alarm">Cookie clicker</a><br>
+  </ul>
+</div>
