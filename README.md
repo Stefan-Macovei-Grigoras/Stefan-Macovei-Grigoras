@@ -2,11 +2,11 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/stefan-macovei-grigoras-288630270/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-    <img width="12" />
+    <img width="10" />
   </a>
   <a href="https://www.instagram.com/stefan.macovei03/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
-    <img width="12" />
+    <img width="10" />
   </a>
 </div>
 
