@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Stefan-Macovei-Grigoras.Stefan-Macovei-Grigoras&"  />
-</div>
-
-###
 
 <h1 align="center">Hi</h1>
 
@@ -178,3 +173,7 @@
       </li>
   </div>
 </ul>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Stefan-Macovei-Grigoras.Stefan-Macovei-Grigoras&"  />
+</div>
+
