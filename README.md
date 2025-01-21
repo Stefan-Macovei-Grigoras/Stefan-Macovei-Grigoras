@@ -1,14 +1,10 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/stefan-macovei-grigoras-288630270/" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-    <img width="10" />
-  </a>
-  <a href="https://www.instagram.com/stefan.macovei03/" target="_blank" style="text-decoration: none; display: inline-block;">
+  </a><a href="https://www.instagram.com/stefan.macovei03/" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-    <img width="10" />
   </a>
 </div>
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Stefan-Macovei-Grigoras.Stefan-Macovei-Grigoras&"  />
