@@ -1,12 +1,3 @@
-<div align="left" style="font-size: 0; line-height: 0;">
-  <a href="https://www.linkedin.com/in/stefan-macovei-grigoras-288630270/" target="_blank" style="text-decoration: none; display: block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="display: block; vertical-align: middle;" />
-  </a>
-  <a href="https://www.instagram.com/stefan.macovei03/" target="_blank" style="text-decoration: none; display: block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="display: block; vertical-align: middle;" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Stefan-Macovei-Grigoras.Stefan-Macovei-Grigoras&"  />
 </div>
@@ -26,7 +17,14 @@
   <br> 🥀Floral enthusiast with a keen eye for photography 📷and a love for staying active through running🏃🏻‍♂️
   <br> 📃 Learn more about me from my <a href="https://drive.google.com/file/d/1I30QvZjMyNJm4-fUOgNn0EHmGYbzrppW/view?usp=sharing">resume</a>
 </p>
-
+<div align="left" style="font-size: 0; line-height: 0;">
+  <a href="https://www.linkedin.com/in/stefan-macovei-grigoras-288630270/" target="_blank" style="text-decoration: none; display: block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="display: block; vertical-align: middle;" />
+  </a>
+  <a href="https://www.instagram.com/stefan.macovei03/" target="_blank" style="text-decoration: none; display: block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="display: block; vertical-align: middle;" />
+  </a>
+</div>
 ###
 <hr>
 <h3 align="left">🛠 Language and tools</h3>
