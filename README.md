@@ -14,7 +14,7 @@
 <p align="left">Third-year student at Babes-Bolyai University, Faculty of Mathematics and Computer Science<br>
   <br> 📚 I'm currently developing an ERP platform for an enterprise and playing around with bots and AI
   <br> 🥀Floral enthusiast with a keen eye for photography 📷and a love for staying active through running🏃🏻‍♂️
-  <br> 📃 Learn more about me from my <a href="https://drive.google.com/file/d/1ij6W4Wa_2n0DTGCm3fHMredXTaClRhIu/view">resume</a>
+  <br> 📃 Learn more about me from my <a href="https://drive.google.com/file/d/1BE7Zb74QVgx4SVVA-m83SZySQiChSYIO/view?usp=sharing">resume</a>
 </p>
 
 <hr>
