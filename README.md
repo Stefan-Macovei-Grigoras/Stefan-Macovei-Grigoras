@@ -62,6 +62,7 @@
     <h3 align="left">RPA Projects</h3>
     <ul>
         <li><a href="https://github.com/Stefan-Macovei-Grigoras/RPA-meteo-alarm">Meteo Alarm</a></li>
+        <li><a href="https://github.com/Stefan-Macovei-Grigoras/cookie-clicker-game">Meteo Alarm</a></li>
     </ul>
      <div>
     <h3 align="left">Projects</h3>
