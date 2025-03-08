@@ -67,6 +67,7 @@
     <h3 align="left">Projects</h3>
     <ul>
         <li><a href="https://github.com/Stefan-Macovei-Grigoras/kindergarten-game">Kindergarten Game</a></li>
+        <li><a href="https://github.com/Stefan-Macovei-Grigoras/ESP32-DHT22-Data-Logger">IOT Sensor</a></li>
     </ul>
   </div>
   <div>
